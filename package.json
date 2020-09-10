@@ -1,0 +1,17 @@
+{
+  "name": "ApolloAPI",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/farhan310/ApolloAPI.git",
+  "author": "<jghandhy01@rbi.com>",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.17.0",
+    "graphql": "^15.3.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "parcel": "^1.12.4"
+  }
+}
